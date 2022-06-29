@@ -11,7 +11,8 @@ the longitude and latitude of the start and end stations and the earth’s radiu
 calculated using the haversine formula how far a bike travels. I also took duration in seconds 
 and converted it into minutes for better analysis.
 
-
+### Visualizations
+<img src="https://user-images.githubusercontent.com/69525188/176326336-fc7368fa-2ac2-4fe4-b0d6-7f67e0dbdc7a.png" width="320" height="300" />    <img src="https://user-images.githubusercontent.com/69525188/176326379-ac6b4386-d6b0-4cac-b91a-df45ac225f3c.png" width="320" height="300" />    <img src="https://user-images.githubusercontent.com/69525188/176326492-8536bdb8-0536-4f11-8bde-8da2255d44d0.png" width="320" height="300" />
 
 ### Findings
 Some of my main findings were that females between the ages of 26 and 34 traveled more than
