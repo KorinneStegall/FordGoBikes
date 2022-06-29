@@ -30,7 +30,8 @@ and converted it into minutes for better analysis.
 
 <a id='visuals'></a>
 ### Visualizations
-<img src="https://user-images.githubusercontent.com/69525188/176326336-fc7368fa-2ac2-4fe4-b0d6-7f67e0dbdc7a.png" width="320" height="300" />    <img src="https://user-images.githubusercontent.com/69525188/176326379-ac6b4386-d6b0-4cac-b91a-df45ac225f3c.png" width="320" height="300" />    <img src="https://user-images.githubusercontent.com/69525188/176326492-8536bdb8-0536-4f11-8bde-8da2255d44d0.png" width="320" height="300" />
+<img src="https://user-images.githubusercontent.com/69525188/176326336-fc7368fa-2ac2-4fe4-b0d6-7f67e0dbdc7a.png" width="320" height="300" /> <img src="https://user-images.githubusercontent.com/69525188/176326379-ac6b4386-d6b0-4cac-b91a-df45ac225f3c.png" width="320" height="300" /> <img src="https://user-images.githubusercontent.com/69525188/176326492-8536bdb8-0536-4f11-8bde-8da2255d44d0.png" width="320" height="300" /> <img src="https://user-images.githubusercontent.com/69525188/176327779-c2cffca4-330d-4cbf-ac16-cc5104d2df0f.png" width="320" height="300" />
+
 
 <a id='findings'></a>
 ### Findings
