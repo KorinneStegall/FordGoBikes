@@ -6,6 +6,8 @@
 
 **Packages Used:** pandas, numpy, matplotlib, seaborn
 
+[Python Notebook](https://github.com/KorinneStegall/ford_go_bikes/blob/1d2568f6e0a9c16f12bb728a516abc0f3a45bbc4/Communicate%20Data%20Findings%20Project.ipynb)
+
 ## Table of Contents
 - [Introduction](#intro)
 - [Wrangling](#wrangling)
