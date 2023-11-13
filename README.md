@@ -1,5 +1,8 @@
 # Analysis of Ford Go Bikes
-
+### Project Highlights:
+- Calculated the distance between two coordinates using the haversine formula
+- Utilized univariate, bivariate and multivariate explorations to visualize customer habits
+- Analyzed the usaege of the Ford Go Bike system 
 
 ### Code and Resources Used
 **Python Version:** 3.9
@@ -29,6 +32,7 @@ added columns include distance traveled and duration. I extracted distance trave
 the longitude and latitude of the start and end stations and the earth’s radius, and then 
 calculated using the haversine formula how far a bike travels. I also took duration in seconds 
 and converted it into minutes for better analysis.
+
 
 <a id='visuals'></a>
 ### Visualizations
