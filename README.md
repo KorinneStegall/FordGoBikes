@@ -2,7 +2,7 @@
 ### Project Highlights:
 - Calculated the distance between two coordinates using the haversine formula
 - Utilized univariate, bivariate and multivariate explorations to visualize customer habits
-- Analyzed the usaege of the Ford Go Bike system 
+- Analyzed the usage of the Ford Go Bike system 
 
 ### Code and Resources Used
 **Python Version:** 3.9
